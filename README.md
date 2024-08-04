@@ -34,6 +34,9 @@ Our vibrant community is designed to support busy individuals. Participate in si
 - **Time-Saving Virtual Try-On**: Try on clothes virtually to ensure they fit and look great without the hassle of store visits or returns.
 - **Supportive Community**: Connect with like-minded individuals, gain inspiration, and receive feedback in a supportive environment.
 
+## Presentation
+For a detailed overview of our product, check out our [Style WOW](https://shorturl.at/hmX19) presentation.
+
 ## Contributing
 We welcome contributions from the community. If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
