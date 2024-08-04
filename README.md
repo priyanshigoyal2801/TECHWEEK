@@ -8,6 +8,7 @@ Welcome to **Style WOW**, where fashion meets convenience for young adults with 
 - [Getting Started](#getting-started)
 - [Community](#community)
 - [Unique Selling Points](#unique-selling-points)
+- [Presentation](#presentation)
 - [Contributing](#contributing)
 
 ## Introduction
