@@ -35,7 +35,7 @@ Our vibrant community is designed to support busy individuals. Participate in si
 - **Supportive Community**: Connect with like-minded individuals, gain inspiration, and receive feedback in a supportive environment.
 
 ## Presentation
-For a detailed overview of our product, check out our [Style WOW](https://shorturl.at/hmX19) presentation.
+For a detailed overview of our product, check out our [Style WOW](https://www.canva.com/design/DAGM0wtSGNg/U9mjTr0DHnIZiMDZ-mBuog/edit) presentation.
 
 ## Contributing
 We welcome contributions from the community. If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
