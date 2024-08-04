@@ -9,7 +9,6 @@ Welcome to **Style WOW**, where fashion meets convenience for young adults with 
 - [Community](#community)
 - [Unique Selling Points](#unique-selling-points)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Style WOW provides effortless, personalized fashion advice tailored for busy individuals who may not be fashion experts. Our platform is designed to help you look fabulous with minimal effort by offering advice based on your complexion and body type.
